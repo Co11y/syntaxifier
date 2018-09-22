@@ -1,0 +1,1 @@
+python %cd%\exec\server.py
